@@ -26,6 +26,8 @@ I wrote this a long time ago just to make a smart home controller with Blynk eas
 
 # Schematic
 
+[View schematic PDF](/schematic.pdf)
+[Download/View PDF](/schematic.pdf)
 
 ### Author
 ChauDong
